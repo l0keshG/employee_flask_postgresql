@@ -1,0 +1,6 @@
+{
+	"dbname": "Capfront",
+	"user": "postgres",
+	"password": "postgres",
+	"host": "localhost"
+}

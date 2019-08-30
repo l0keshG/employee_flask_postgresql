@@ -4,4 +4,4 @@ Capfront Employee details
 
 ## Development
 
-https://github.rackspace.com/bpit/bpit/wiki/Development
+https://github.com/l0keshG/employee_flask_postgresql
